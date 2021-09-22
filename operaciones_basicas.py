@@ -1,5 +1,6 @@
 # En este script hacemos operaciones basicas
 # 15 de sept 2021
+# repaso del 22 de septiembre
 suma = 5 + 2
 resta = suma - 8.5
 m1 = 32
