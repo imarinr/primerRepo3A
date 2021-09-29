@@ -1,4 +1,14 @@
 Ivan Marin Roldan
 Actividad 1: algoritmo para preparar un sándwich
 1. Inicio
-2. 
+2. Obtener 2 rebanadas de pan, mayonesa, jitomate, lechuga, cebolla, jamon y queso
+3. Colocar una rebanada de pan en un plato
+4. Poner mayonesa en la rebanada de pan
+5. Colocar jamón
+6. Colocar queso
+7. Colocar unas rebanadas de jitomate
+8. Poner cebolla
+9. Poner lechuga
+10. Poner mayonesa a la otra rebanada de pan
+11. Colocar la rebanada de pan
+12. Fin
